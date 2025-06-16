@@ -1,3 +1,9 @@
+I was tasked with this project in order to test my knowledge of Machine learning and Data analysis.
+in this project I cleaned,analysed,visualized and extracted features from data.
+with the features extracted I compared two machine models (i.e RandomForest and XGBoost with XGBoost achieving the highest accuracy score)
+Then used XGBoost to detect if the person got heart disease or not taking input via application (using Tkinter).
+
+
 This project was assisted by:
     -Medical students in order to better understand the dataset
     -Online resources in order to better understand syntax:
